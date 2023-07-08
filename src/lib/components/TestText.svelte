@@ -1,0 +1,1 @@
+<h1>inside component</h1>
